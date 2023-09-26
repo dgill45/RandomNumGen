@@ -6,7 +6,7 @@ const generateNumber = () => {
  number.innerHTML = randomNumber;
 }
 
-btn.addEventListener("click", generateNumber)
+btn.addEventListener("click", generateNumber);
 
 
 generateNumber();
